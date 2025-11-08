@@ -31,7 +31,7 @@ A microcontroller keying output (e.g., to key a transmitter or sidetone).
 
 A software tone generator (Python, MATLAB, or SDR platforms).
 
-This converts your CSV into a realistic CW signal playback with precise timing control.
+This converts your noisy audio file into a less fuzzy output thats easier for a pc to understand and export using a known format  
 
 
 
