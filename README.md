@@ -13,7 +13,7 @@ Can be easily converted to audio or RF keying signals for Morse practice or deco
 
 Useful for bench-testing receivers, SDR software, or decoding firmware.
 
-Can simulate “imperfect” human keying, variable speeds, and noise-free waveforms using .
+Can simulate “imperfect” human keying, variable speeds, and noise-free waveforms using cutoffs.
 
 Ideal for verifying timing tolerance in automatic decoders, measuring jitter handling, or evaluating keyer filters.
 
