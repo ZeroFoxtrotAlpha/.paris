@@ -1,5 +1,5 @@
 # .paris
-.paris is a file format for interpreting morse
+.paris is a file format for interpreting morse based on CSV
 
 1. Training and Decoding Research
 
