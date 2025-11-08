@@ -36,5 +36,4 @@ This converts your CSV into a realistic CW signal playback with precise timing c
 
 
 
-binary waveform using thresholds :   __■■■■____■■■■■■■_____■■■___
-vs a stadard aproach: __/‾‾‾‾‾\__/‾‾‾‾‾‾‾\____/‾‾‾\
+binary waveform using thresholds :   __■■■■____■■■■■■■_____■■■___ vs a stadard aproach: __/‾‾‾‾‾\__/‾‾‾‾‾‾‾\____/‾‾‾\
