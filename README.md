@@ -21,7 +21,7 @@ Ideal for verifying timing tolerance in automatic decoders, measuring jitter han
 
 Students or hams can visualize Morse as digital signals.
 
-Demonstrates the relationship between timing, WPM, and human error.
+Demonstrates the relationship between timing, CPM, and human error.
 
 4. Audio or RF Playback
 
