@@ -36,4 +36,4 @@ This converts your noisy audio file into a less fuzzy output thats easier for a 
 
 
 
-binary waveform using thresholds :   __■■■■____■■■■■■■_____■■■___ vs a stadard aproach: __/‾‾‾‾‾\__/‾‾‾‾‾‾‾\____/‾‾‾\
+binary waveform using thresholds :   __■■■■____■■■■■■■_____■■■___ vs a stadard aproach: __/‾‾‾‾‾\_/‾‾‾‾‾‾‾‾\___/‾‾‾\
